@@ -1,28 +1,13 @@
 -----------------------
 idea :-
 -----------------------
-create a extension to pause history for until clicked next
+chrome extension that will show any latest  treanding joke 
 
 
------------------------
-article for reference :-
------------------------
-https://www.freecodecamp.org/news/how-to-create-and-publish-a-chrome-extension-in-20-minutes-6dc8395d7153/
-
--------------
-latest news api for India:-
------------------
-https://newsapi.org/v2/top-headlines?country=in&apiKey=218c5f76a51049889049227a48a510e7
-
-
----------------------
-1st crash
---------------------
-cnnot set properties of null(setting 'innerHTML')
-
-
-
-
+----------------------
+public api used
+----------------------
+https://icanhazdadjoke.com/slack
 
 ------------------------------------------------------------------------
 some more ideas:-
@@ -48,3 +33,10 @@ A browser history cleaner that automatically deletes browsing history and cache 
 A weather extension that displays current weather conditions and provides daily forecasts for the user's location.
 
 A calorie counter that calculates the number of calories in the food users search for on various recipe websites.
+
+
+
+-------------
+latest news api for India:-
+-----------------
+https://newsapi.org/v2/top-headlines?country=in&apiKey=218c5f76a51049889049227a48a510e7
