@@ -40,3 +40,9 @@ A calorie counter that calculates the number of calories in the food users searc
 latest news api for India:-
 -----------------
 https://newsapi.org/v2/top-headlines?country=in&apiKey=218c5f76a51049889049227a48a510e7
+
+
+
+------------------------
+copyright - @Aayush2609
+------------------------
